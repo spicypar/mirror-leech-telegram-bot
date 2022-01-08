@@ -313,9 +313,9 @@ rssget - Get specific No. of links from specific rss feed
 rsssub - Subscribe new rss feed
 rssunsub - Unsubscribe rss feed by title
 rssunsuball - Remove all rss feed subscriptions
-list1 - Search files in Drive
+list - Search files in Drive
 search - Search for torrents with API
-cancel1 - Cancel a task
+cancel - Cancel a task
 cancelall - Cancel all tasks
 del - Delete file/folder from Drive
 log - Get the Bot Log
