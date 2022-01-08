@@ -287,9 +287,9 @@ sudo docker-compose start
 ## Bot commands to be set in [@BotFather](https://t.me/BotFather)
 
 ```
-mirror1 - Mirror
-zipmirror1 - Mirror and upload as zip
-unzipmirror1 - Mirror and extract files
+mirror - Mirror
+zipmirror - Mirror and upload as zip
+unzipmirror - Mirror and extract files
 qbmirror - Mirror torrent using qBittorrent
 qbzipmirror - Mirror torrent and upload as zip using qb
 qbunzipmirror - Mirror torrent and extract files using qb
@@ -299,9 +299,9 @@ unzipleech - Leech and extract files
 qbleech - Leech torrent using qBittorrent
 qbzipleech - Leech torrent and upload as zip using qb
 qbunzipleech - Leech torrent and extract using qb
-clone1 - Copy file/folder to Drive
-count1 - Count file/folder of Drive
-watch1 - Mirror yt-dlp supported link
+clone - Copy file/folder to Drive
+count - Count file/folder of Drive
+watch - Mirror yt-dlp supported link
 zipwatch - Mirror yt-dlp supported link as zip
 leechwatch - Leech through yt-dlp supported link
 leechzipwatch - Leech yt-dlp support link as zip
@@ -317,11 +317,11 @@ list1 - Search files in Drive
 search - Search for torrents with API
 cancel1 - Cancel a task
 cancelall - Cancel all tasks
-del1 - Delete file/folder from Drive
+del - Delete file/folder from Drive
 log - Get the Bot Log
 shell - Run commands in Shell
-restart1 - Restart the Bot
-stats1 - Bot Usage Stats
+restart - Restart the Bot
+stats - Bot Usage Stats
 ping - Ping the Bot
 help - All cmds with description
 ```
